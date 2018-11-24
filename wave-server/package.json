@@ -47,6 +47,7 @@
     "moment": "2.22.2"
   },
   "devDependencies": {
+    "jshint": "^2.9.6",
     "nodemon": "^1.18.6"
   }
 }
